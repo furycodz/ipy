@@ -15,12 +15,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![Discord][linkedin-shield]][linkedin-url]
+
 
 
 
@@ -75,10 +70,10 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 A simple open-source api that allows you to get the ip from the front client 
+<img src="https://cdn.discordapp.com/attachments/796762144627621898/891710974703308810/unknown.png" >
+
+
 
 ### Built With
 * [Express](https://expressjs.com/)
